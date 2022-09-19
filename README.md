@@ -1,13 +1,12 @@
 ## 功能介绍 
-- 以幼儿园新学期新学年招生报名为核心，
-- 兼顾幼儿园环境图文展示（室内，室外，文娱，起居等），幼儿园招生政策答疑，最新动态新闻，幼儿园食谱介绍，报名项目海报分享等， 
-- 目的是方便园方方便的统计幼儿登记资料，合理的控制报名人数，幼儿家长可以填写幼儿的基本信息，住址信息，监护人信息等资料（可自定义设置）， 
-- 园方人员根据资料可以做预先审核，并提示用户修改完善资料，并可查看和导出名单Excel，审核报名记录等，大大减少了现场报名的人力成本，数字化手段提高了工作效率， 也为家长节省了时间。
+-招生报名小程序： 对每所学校而言，每年招生入学工作启动后，都免不了信息登记、现场报名、普查审核等多个阶段。特别是来到现场报名审核环节时，以往都是学校公众号发个通知，家长们在开放现场登记的那几天，自己找时间过来，头一两天来的人会比较多，老师们接待压力也比较大，家长办理审核登记也需要等待较长时间。  但近年来，为了减少现场家长排队等待，以及更好防范疫情，使用小程序来实现在线预约、对家长有序分流，成为了各学校积极采用的方式，老师接待和现场秩序管理起来也更轻松。 
  
-![输入图片说明](demo/qr.png)
+ ![image](https://user-images.githubusercontent.com/113865258/190942806-db6df422-b43d-4813-ae19-971c70623e83.png)
+
 
 ## 功能图
-![输入图片说明](demo/%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%8B%9B%E7%94%9F%E6%8A%A5%E5%90%8D%E5%B0%8F%E7%A8%8B%E5%BA%8F%20(2).gif)
+ ![image](https://user-images.githubusercontent.com/113865258/190942814-c76b4795-ac84-4eb6-951f-6eb15487cd05.png)
+
 
 ## 技术运用
 
@@ -16,6 +15,7 @@
 - 小程序本身的即用即走，适合小工具的使用场景，也适合快速开发迭代。
 - 云开发技术采用腾讯内部链路，没有被黑客攻击的风险，安全性高且免维护。
 - 资源承载力可根据业务发展需要随时弹性扩展。  
+![image](https://user-images.githubusercontent.com/113865258/190942788-fd20c66a-e47c-4c47-8fd6-6f117b29c8a4.png)
 
 
 
@@ -23,11 +23,11 @@
 - 如有疑问，欢迎骚扰联系我：开发交流，技术分享，问题答疑，功能建议收集，版本更新通知，安装部署协助，小程序开发定制等。
 - 俺的微信: 
  
-![输入图片说明](demo/author-base.png)
+ 
 
 
 ## 演示 
- ![输入图片说明](demo/qr.png)
+  ![image](https://user-images.githubusercontent.com/113865258/190942806-db6df422-b43d-4813-ae19-971c70623e83.png)
 
 ## 安装
 
@@ -37,27 +37,33 @@
 
 
 ## 截图
+![image](https://user-images.githubusercontent.com/113865258/190942830-70078073-fd63-40af-b247-c1cb4dc16f1a.png)
+![image](https://user-images.githubusercontent.com/113865258/190942841-e833f06c-b502-41b6-b312-e146ff49413f.png)
+![image](https://user-images.githubusercontent.com/113865258/190942848-5c517526-41a3-4a23-9059-99f97374dea6.png)
+![image](https://user-images.githubusercontent.com/113865258/190942850-6e2d1bbb-53d9-4f2b-8dca-f8d3cdc4e4fc.png)
+![image](https://user-images.githubusercontent.com/113865258/190942852-4be3b563-47af-4e98-800b-27327ea8a295.png)
+![image](https://user-images.githubusercontent.com/113865258/190942855-809e66ef-cf01-44be-b5d3-f42662df2e9d.png)
+![image](https://user-images.githubusercontent.com/113865258/190942858-c83d5034-e16b-491d-a38e-97fb1e14b55a.png)
+![image](https://user-images.githubusercontent.com/113865258/190942862-448544e3-a02a-4127-88ee-911400dba597.png)
+![image](https://user-images.githubusercontent.com/113865258/190942866-074d7598-873e-4ad7-ad44-ad76298bb1a0.png)
 
-![输入图片说明](demo/1%E9%A6%96%E9%A1%B5.png)
-![输入图片说明](demo/2%E6%8A%A5%E5%90%8D%E5%88%97%E8%A1%A8.png)
- ![输入图片说明](demo/3-%E5%A4%9A%E5%BD%A9%E6%A0%A1%E5%9B%AD.png)
-![输入图片说明](demo/4%E6%88%91%E7%9A%84.png)
-![输入图片说明](demo/5%E6%8A%A5%E5%90%8D%E8%AF%A6%E6%83%85.png)
-
-![输入图片说明](demo/6%E5%A1%AB%E5%86%99%E6%8A%A5%E5%90%8D%E8%B5%84%E6%96%99.png)
-
-![输入图片说明](demo/7%E8%B5%84%E6%96%99%E6%A0%B8%E5%AF%B9.png)
-![输入图片说明](demo/8%E6%8A%A5%E5%90%8D%E6%88%90%E5%8A%9F.png)
-
-![输入图片说明](demo/9%E6%88%91%E7%9A%84%E6%8A%A5%E5%90%8D.png)
+ 
 
 ## 后台管理系统截图 
 - 后台超级管理员默认账号:admin，密码123456，请登录后台后及时修改密码和创建普通管理员。
-![输入图片说明](demo/10%E5%90%8E%E5%8F%B0-%E9%A6%96%E9%A1%B5.png)
-![输入图片说明](demo/11-%E5%90%8E%E5%8F%B0%E6%8A%A5%E5%90%8D%E7%AE%A1%E7%90%86.png)
-![输入图片说明](demo/12%E5%90%8E%E5%8F%B0-%E6%8A%A5%E5%90%8D%E6%93%8D%E4%BD%9C.png)
-![输入图片说明](demo/13%E5%90%8E%E5%8F%B0-%E6%8A%A5%E5%90%8D%E6%93%8D%E4%BD%9C2.png)
-![输入图片说明](demo/14%E5%90%8E%E5%8F%B0-%E6%8A%A5%E5%90%8D%E6%95%B0%E6%8D%AE%E5%AF%BC%E5%87%BA.jpg)
-![输入图片说明](demo/15%E5%90%8E%E5%8F%B0-%E6%8A%A5%E5%90%8D%E6%95%B0%E6%8D%AE%20Excel.png)
-![输入图片说明](demo/16%E5%90%8E%E5%8F%B0-%E6%8A%A5%E5%90%8D%E6%93%8D%E4%BD%9C.png)
-![输入图片说明](demo/17%E5%90%8E%E5%8F%B0-%E5%88%9B%E5%BB%BA%E6%96%B0%E6%8A%A5%E5%90%8D.png)
+![image](https://user-images.githubusercontent.com/113865258/190942869-73fd6f23-3ca8-4673-a4ae-0c92c845ddc9.png)
+![image](https://user-images.githubusercontent.com/113865258/190942877-113e3157-8475-435f-b56c-a5d7cbb1926b.png)
+![image](https://user-images.githubusercontent.com/113865258/190942880-7ad15614-d048-44f4-8da6-545ed6a405c4.png)
+![image](https://user-images.githubusercontent.com/113865258/190942884-e2a74a97-3459-45f0-87b0-2d2fddc5b298.png)
+![image](https://user-images.githubusercontent.com/113865258/190942892-3b7a97b4-bd56-4242-9dd7-353d37589be0.png)
+![image](https://user-images.githubusercontent.com/113865258/190942896-edbd598b-1bc1-4a46-9108-c9149f8f5c9f.png)
+![image](https://user-images.githubusercontent.com/113865258/190942900-9f00365c-c649-4b2e-9092-1f53d636cf45.png)
+![image](https://user-images.githubusercontent.com/113865258/190942906-69dc1a54-e5c1-4505-8d29-9be1e26157a8.png)
+
+
+
+
+
+
+
+ 
